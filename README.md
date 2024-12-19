@@ -8,7 +8,6 @@ The **Automatic Vehicle Number Plate Recognition (ANPR) System** is a cost-effec
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [System Architecture](#system-architecture)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Project Workflow](#project-workflow)
 - [Applications](#applications)
