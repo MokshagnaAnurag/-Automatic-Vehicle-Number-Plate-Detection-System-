@@ -7,7 +7,6 @@ The **Automatic Vehicle Number Plate Recognition (ANPR) System** is a cost-effec
 ## 📖 Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [System Architecture](#system-architecture)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Workflow](#project-workflow)
@@ -39,17 +38,6 @@ The **Automatic Vehicle Number Plate Recognition (ANPR) System** is a cost-effec
 - **Software Tools:** Python-ANPR, Haar Cascades, and other image segmentation techniques.
 
 ---
-
-## 📐 System Architecture
-1. **Image Acquisition**: Captures vehicle images using the Raspberry Pi Camera Module.
-2. **Image Preprocessing**: Enhances images using resizing, normalization, and adaptive filtering.
-3. **License Plate Detection**: Detects plates using computer vision algorithms or deep learning models.
-4. **Character Segmentation**: Breaks down the license plate into individual characters.
-5. **Character Recognition**: Recognizes alphanumeric characters using Tesseract OCR.
-6. **Data Storage/Alerts**: Stores recognized data (e.g., license plate number, timestamp) or triggers alerts for specific conditions.
-
-![System Architecture](https://via.placeholder.com/800x400.png?text=System+Architecture+Diagram)
-
 ---
 
 ## 🛠️ Installation
