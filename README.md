@@ -43,8 +43,8 @@ The **Automatic Vehicle Number Plate Recognition (ANPR) System** is a cost-effec
 ## 🛠️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MokshagnaAnurag/-Automatic-Vehicle-Number-Plate-Detection-System-.git
-   cd -Automatic-Vehicle-Number-Plate-Detection-System-
+   git clone https://github.com/MokshagnaAnurag/anpr.raspberrypi.git
+   cd anpr.raspberrypi
    ```
 2. Install dependencies:
    ```bash
