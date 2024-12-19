@@ -137,7 +137,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📧 Contact
 For queries or suggestions, feel free to reach out to:
 - **Email:** kankati.mokshagnaanurag@gmail.com
-- **GitHub:** [YourUsername](https://github.com/MokshagnaAnurag)
+- **GitHub:** [MokshagnaAnurag](https://github.com/MokshagnaAnurag)
 
 ---
 
