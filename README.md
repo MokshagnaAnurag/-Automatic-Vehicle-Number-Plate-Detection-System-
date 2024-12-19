@@ -57,7 +57,7 @@ The **Automatic Vehicle Number Plate Recognition (ANPR) System** is a cost-effec
    ```
 5. Run the application:
    ```bash
-   python main.py
+   python ANPR.py
    ```
 
 ---
