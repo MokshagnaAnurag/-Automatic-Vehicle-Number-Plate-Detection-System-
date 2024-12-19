@@ -139,4 +139,3 @@ For queries or suggestions, feel free to reach out to:
 ---
 
 Thank you for exploring the ANPR System! Contributions, feedback, and suggestions are always welcome. 🚀
-``` 
