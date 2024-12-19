@@ -1,4 +1,3 @@
-```markdown
 # Automatic Vehicle Number Plate Recognition (ANPR) System 🚗💻
 
 The **Automatic Vehicle Number Plate Recognition (ANPR) System** is a cost-effective, real-time solution for license plate recognition using the **Raspberry Pi**. It integrates **computer vision** techniques with **OCR (Optical Character Recognition)** to identify and process license plates efficiently. This project leverages tools such as **OpenCV**, **Tesseract OCR**, and **Python** to deliver robust functionality for traffic monitoring, law enforcement, and access control systems.
