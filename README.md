@@ -8,6 +8,7 @@ The **Automatic Vehicle Number Plate Recognition (ANPR) System** is a cost-effec
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [System Architecture](#system-architecture)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Project Workflow](#project-workflow)
 - [Applications](#applications)
@@ -51,6 +52,27 @@ The **Automatic Vehicle Number Plate Recognition (ANPR) System** is a cost-effec
 
 ---
 
+## 🛠️ Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/anpr-raspberrypi.git
+   cd anpr-raspberrypi
+   ```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Set up the Raspberry Pi Camera Module.
+4. Install **Tesseract OCR**:
+   ```bash
+   sudo apt-get install tesseract-ocr
+   ```
+5. Run the application:
+   ```bash
+   python main.py
+   ```
+
+---
 
 ## 🎯 Usage
 1. **Real-Time Mode**: Capture and process images in real time using the camera module.
